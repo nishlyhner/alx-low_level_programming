@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the phase "Programming is like building a multilingual puzzle
- * Return: 0 if exited properly, non-zero otherwise
+ * main - Enty point
+ * Return:Always 0 (success)
  */
 int main(void)
 {
