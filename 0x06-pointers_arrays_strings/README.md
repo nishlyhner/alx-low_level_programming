@@ -1,2 +1,2 @@
 #!/bin/bash
-my readme file for the pointers arrays strings.
+my readme file formore pointers, arrays and strings
